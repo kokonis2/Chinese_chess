@@ -7,11 +7,6 @@
    >关键词：Python 中国象棋 <br>
     
 ## <p align="center">ABSTRACT</p>
-	
-    >With a history of more than 2000 years, Chinese chess is a beautiful treasure of the traditional culture of the Chinese nation. Chinese chess is both intelligent and interesting. It can enlighten people's thinking and enrich people's life. Many kinds of algorithms have been adopted in the design of Chinese chess game. The algorithm used in the system to realize the game will be improved on the previous algorithms to make the Chinese chess game more intelligent. At the same time, the system uses Python language for game development, which will make chess game more interesting. <br>
-	
-    >Key Words: Python Chinese chess <br>
-
 ## <p align="center">参考文献</p>
 
 [1]高伟,郭瑾,张昊.基于JAVA技术的中国象棋游戏设计与实现[J].大连民族学院学报,2007,(05):17-19.<br>
