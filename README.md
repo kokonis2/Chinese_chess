@@ -1,4 +1,4 @@
-# 基于Python的中国象棋游戏开发
+# Development of Chinese Chess Game Based on Python
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
